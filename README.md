@@ -249,3 +249,11 @@ See our [CONTRIBUTING](CONTRIBUTING.md) guide.
 - [FFmpeg API Documentation](https://ffmpeg.org/doxygen/4.0/index.html)
 - [FFmpeg Wiki](https://trac.ffmpeg.org/wiki/WikiStart)
 - [FFmpeg External Library Licenses](https://www.ffmpeg.org/doxygen/4.0/md_LICENSE.html)
+- 
+
+
+⚠️ Legal Note:
+This repository provides prebuilt binaries using only LGPL-safe and patent-unencumbered codecs. 
+To use patented codecs such as H.264 or HEVC, you must build from source and ensure compliance 
+with local laws and patent licenses. See FFmpeg's [license and patent FAQ](https://ffmpeg.org/legal.html).
+
